@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Alt text](screen/02.png?raw=true  "Second Page")
+![Alt text](src/screen/01.png?raw=true  "Second Page")
+![Alt text](src/screen/02.png?raw=true  "Second Page")
+![Alt text](src/screen/03.png?raw=true  "Second Page")
 
 ## Available Scripts
 
